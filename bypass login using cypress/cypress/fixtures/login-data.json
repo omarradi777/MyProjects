@@ -1,0 +1,21 @@
+{
+  "url": "/login",
+  "email": {
+    "selector": "#login-email",
+    "value": "user@test.com",
+    "invalidValue": "",
+    "domain": "@gmail.com"
+  },
+  "password": {
+    "selector": "#login-password",
+    "value": "12345678"
+  },
+  "signIn": {
+    "selector": "button",
+    "value": "Sign in"
+  },
+  "invalidCred": {
+    "selector": "span",
+    "value": "Invalid Credentials"
+  }
+}

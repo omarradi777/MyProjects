@@ -1,0 +1,5 @@
+{
+    "url":"http://206.189.196.39:3000",
+    "firstTab":":nth-child(2) > a",
+    "secondTab":":nth-child(2) > a"
+}

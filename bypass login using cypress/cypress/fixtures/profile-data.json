@@ -1,0 +1,15 @@
+{
+  "capitalUnit": {
+    "value": "B",
+    "selector": "#market-capital-unit",
+    "optSelector": "mat-option"
+  },
+  "save": {
+    "value": "Save",
+    "selector": "button"
+  },
+  "successMsg": {
+    "value": "Thanks for your submission, Your request is currently under review.",
+    "selector": ".dialog"
+  }
+}

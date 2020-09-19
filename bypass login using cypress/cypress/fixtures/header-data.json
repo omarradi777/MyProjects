@@ -1,0 +1,10 @@
+{
+  "signIn": {
+    "selector": "li",
+    "value": "Sign In"
+  },
+  "logOut": {
+    "selector": "li",
+    "value": "Logout"
+  }
+}
